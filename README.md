@@ -41,4 +41,3 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
-  <img src="https://camo.githubusercontent.com/d36f7682b041195eb6608c41705508f5a6e7f98305a062c6a78d016098f48216/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e6974616c7933312673686f775f69636f6e733d74727565267468656d653d64617263756c612662675f636f6c6f723d3030303030303030">
