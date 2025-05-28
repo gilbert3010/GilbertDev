@@ -1,5 +1,4 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí:
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -10,8 +9,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-
 
 ### 🗃 &nbsp;Databases
 
@@ -26,14 +23,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
-</span>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
